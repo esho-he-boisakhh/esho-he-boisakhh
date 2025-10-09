@@ -1,16 +1,56 @@
 ## Hi there 👋
 
-<!--
-**esho-he-boisakhh/esho-he-boisakhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring **Full-Stack Developer** & **ML/DL Enthusiast**  
+Actively learning AI/ML and looking for internship opportunities!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Skills
+
+- **Languages:**  
+  - Python (Primary)  
+  - Java (Basic)  
+
+- **Web:**  
+  - HTML, CSS  
+
+- **Backend:**  
+  - Flask, FastAPI  
+  - API Testing with Postman  
+
+- **ML/DL:**  
+  - NumPy, Pandas  
+  - Scikit-learn  
+  - TensorFlow, PyTorch  
+
+- **Tools:**  
+  - Git & GitHub  
+  - VSCode, Jupyter Notebooks  
+  - Postman  
+
+---
+
+## 🌱 Currently Learning
+
+- 🤖 AI & Machine Learning Fundamentals  
+- 🧠 Deep Learning Architectures  
+- 🚀 Building & Testing ML APIs  
+
+---
+
+## 🎯 Goals
+
+- ✅ Build real-world ML/backend projects  
+- 🛠️ Contribute to open source (Python/ML)  
+- 📥 Land a technical internship in backend or ML  
+
+---
+
+## 📫 Connect with Me
+
+- [LinkedIn](www.linkedin.com/in/prabrisha-bharadwaj)  
+- 🌐 [Portfolio](https://github.com/esho-he-boisakhh/Portfolio) *(if available)*
+
+---
+
+> *"Stay curious, keep building."*
