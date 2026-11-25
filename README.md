@@ -49,7 +49,7 @@ Actively learning AI/ML and looking for internship opportunities!
 ## 📫 Connect with Me
 
 - [LinkedIn](www.linkedin.com/in/prabrisha-bharadwaj)  
-- 🌐 [Portfolio](https://github.com/esho-he-boisakhh/Portfolio) 
+
 
 ---
 
